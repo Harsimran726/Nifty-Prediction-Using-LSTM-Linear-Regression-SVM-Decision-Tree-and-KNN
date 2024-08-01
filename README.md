@@ -23,4 +23,17 @@ Ultimately, this research endeavors to contribute to the field of financial fore
 the potential of ML and DL in predicting stock market movements. The findings are expected to assist 
 investors in anticipating market trends, managing risks more effectively, and maximizing their returns, 
 thereby fostering a more informed and strategic approach to investment
+<br>
+<br>
+<hr>
+<h4>ALGORITHMS I USED</h4>
+<li>Linear Regression</li>
+<li>Decision Tree Regression</li>
+<li>KNN Regression</li>
+<li>SVM Regression</li>
+<li>LSTM ( Long Short Term Memory )</li>
+
+![Screenshot 2024-07-29 232345](https://github.com/user-attachments/assets/a8f202e2-1029-43b9-90fd-4f329ee27c20)
+
+![Screenshot 2024-07-31 161806](https://github.com/user-attachments/assets/5bc7e1f5-b1f1-4405-9be1-dd1bc20b7f0d)
 
